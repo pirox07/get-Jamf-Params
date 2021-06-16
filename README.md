@@ -1,4 +1,4 @@
-# get_Jamf-Prams
+# get_Jamf-Params
 
 ## Required
 
