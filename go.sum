@@ -15,8 +15,10 @@ github.com/mattn/go-colorable v0.1.8 h1:c1ghPdyEDarC70ftn0y+A/Ee++9zz8ljHG1b13eJ
 github.com/mattn/go-colorable v0.1.8/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
 github.com/mattn/go-isatty v0.0.12 h1:wuysRhFDzyxgEmMf5xjvJ2M9dZoWAXNNr5LSBS7uHXY=
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
-github.com/pirox07/jamf-pro-go v0.0.0-20210614020310-5316024d4669 h1:xaDcsbZqzVUHIC4gdX9chQTLDFoTGJc5lMxMjN5cwTc=
-github.com/pirox07/jamf-pro-go v0.0.0-20210614020310-5316024d4669/go.mod h1:SUD8KlSvVFiX3yTthRV4n+J7re1/CIyZePw7lvID4pw=
+github.com/pirox07/jamf-pro-go v0.0.0-20210616015358-a684bb687369 h1:XpS3E/m0GKR3EGo1vDHhSiu+/wIzBb5y/oXRH2CdWvY=
+github.com/pirox07/jamf-pro-go v0.0.0-20210616015358-a684bb687369/go.mod h1:SUD8KlSvVFiX3yTthRV4n+J7re1/CIyZePw7lvID4pw=
+github.com/pirox07/jamf-pro-go v0.0.0-20210616101602-8def38d36a89 h1:ul5UcBoDcErngrYU2NNfDu4klAkA6FnDhTczlSAcFMU=
+github.com/pirox07/jamf-pro-go v0.0.0-20210616101602-8def38d36a89/go.mod h1:SUD8KlSvVFiX3yTthRV4n+J7re1/CIyZePw7lvID4pw=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
